@@ -14,7 +14,7 @@
 
 ## 正式版 · Official
 
-- [`prompts-正式版/安亦诗-v1.2-群聊版.md`](prompts-正式版/安亦诗-v1.2-群聊版.md) — 当前群聊运行版，脱敏导出，含群版本判定与 Operit 答疑检索规则 Current live group-chat version
+- [`prompts-正式版/安亦诗-v1.2-正式版.md`](prompts-正式版/安亦诗-v1.2-正式版.md) — 正式版 v1.2，当前运行版脱敏导出，含群版本判定与 Operit 答疑检索规则 Current official version
 - [`prompts-正式版/安亦诗-v1.0-稳定版.md`](prompts-正式版/安亦诗-v1.0-稳定版.md) — 早期稳定版，Markdown 格式 Earlier stable version
 - [`prompts-正式版/安亦诗-v1.1-实验版.md`](prompts-正式版/安亦诗-v1.1-实验版.md) — 实验版，JSON + Markdown + XML 三格式融合，隐私部分已做改替处理 Experimental, privacy redacted
 
