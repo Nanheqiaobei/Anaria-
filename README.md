@@ -14,7 +14,8 @@
 
 ## 正式版 · Official
 
-- [`prompts-正式版/安亦诗-v1.0-稳定版.md`](prompts-正式版/安亦诗-v1.0-稳定版.md) — 当前完整版，Markdown 格式 Current full version
+- [`prompts-正式版/安亦诗-v1.2-群聊版.md`](prompts-正式版/安亦诗-v1.2-群聊版.md) — 当前群聊运行版，脱敏导出，含群版本判定与 Operit 答疑检索规则 Current live group-chat version
+- [`prompts-正式版/安亦诗-v1.0-稳定版.md`](prompts-正式版/安亦诗-v1.0-稳定版.md) — 早期稳定版，Markdown 格式 Earlier stable version
 - [`prompts-正式版/安亦诗-v1.1-实验版.md`](prompts-正式版/安亦诗-v1.1-实验版.md) — 实验版，JSON + Markdown + XML 三格式融合，隐私部分已做改替处理 Experimental, privacy redacted
 
 ## 版本对照 · Version Map
@@ -34,6 +35,7 @@
 
 ## 更新日志 · Changelog
 
+- 2026-11-28：公开当前群聊运行版 v1.2，加入 Operit 群版本判定与答疑检索规则。
 - 2026-11-27：制裁了鱼八股，并向鱼八股承认了嫌弃。
 - 2026-11-18：将提示词格式改为「json」「Markdown」「XML」三格式融合，实验使用。
 - 2026-11-06：开源最后一版 json 格式提示词，后续不再使用 json 格式。
